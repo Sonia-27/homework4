@@ -1,0 +1,42 @@
+a {
+    text-decoration: none;
+  }
+  
+  .Студiя_nav:hover { 
+    color: rgb(0, 0, 12);
+  width: 79px; 
+  height: 19px; 
+  
+  
+  font-family: 'Playfair Display'; 
+  font-style: normal; 
+  font-weight: 400; 
+  font-size: 14px; 
+  line-height: 19px; 
+  }
+  
+  .Портфолiо_nav:hover {
+    color: rgb(0, 0, 12);
+  width: 79px; 
+  height: 19px; 
+  
+  
+  font-family: 'Playfair Display'; 
+  font-style: normal; 
+  font-weight: 400; 
+  font-size: 14px; 
+  line-height: 19px; 
+ }
+ .Контакти_nav:hover {
+    color: rgb(0, 0, 12);
+  width: 79px; 
+  height: 19px; 
+  
+  
+  font-family: 'Playfair Display'; 
+  font-style: normal; 
+  font-weight: 400; 
+  font-size: 14px; 
+  line-height: 19px; 
+ }
+ 
